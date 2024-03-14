@@ -3,6 +3,9 @@
     padding-right: 50px;
     margin: auto;
 }
+#style{
+    font-size: xx-large;
+}
 #nav{
     display: flex;
     gap: 80px;
