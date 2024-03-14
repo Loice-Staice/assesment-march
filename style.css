@@ -1,0 +1,68 @@
+#main{
+    padding-left: 50px;
+    padding-right: 50px;
+    margin: auto;
+}
+#nav{
+    display: flex;
+    gap: 80px;
+    width: 100%;
+    align-items: center;
+    padding: 0px;
+}
+ul{
+    list-style: none;
+    margin: 0;
+    padding: 60px;
+    overflow: hidden;
+
+    background-color: aliceblue;
+    width: 100%;
+    text-align: right;
+
+}
+li{
+    float: left;
+}
+li a{
+    display: inline-block;
+    text-align: center;
+    font-weight: bold;
+    padding: 20px;
+    text-decoration: none;
+}
+#stylish{
+    display: flex;
+    gap: 200px;
+}
+#shades{
+    display: flex;
+}
+#glasses{
+    display: flex;
+    gap: 30px;
+}
+#word{
+    display: flex;
+    gap: 30px;
+    padding-left: 300px;
+}
+#pics{
+    display: flex;
+}
+#pics2{
+    display: flex;
+    gap: 50px;
+}
+.container8{
+    display: flex;
+    width: 100%;
+    /* justify-content: center; */
+    font-size: 2;
+    gap:15%;
+    background-color:white;
+    border: 20px;
+    color: black;
+    
+}
+
